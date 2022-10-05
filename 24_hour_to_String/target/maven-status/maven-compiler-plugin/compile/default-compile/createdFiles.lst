@@ -1,0 +1,4 @@
+bed_hour_to_String\Exception\HourandminnotValid.class
+bed_hour_to_String\App.class
+bed_hour_to_String\Service\HourtoStringService.class
+bed_hour_to_String\Controller\HourtoStringController.class
